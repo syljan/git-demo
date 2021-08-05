@@ -41,11 +41,5 @@ using the mate command from Terminal.
 Passing a file-name to the mate command will create or open that file. 
 Windows users can use the notepad file-name command instead.
 
-### Adding more
-Command Reference
-List
-ls
-Lists files and folders in current directory.
- Without parameters, will list non-hidden folders and files.
-Git Status
-git status
+####Webside cont
+contents
